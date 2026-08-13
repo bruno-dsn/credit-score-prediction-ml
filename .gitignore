@@ -1,6 +1,9 @@
-venv/
 .venv/
 __pycache__/
-.ipynb_checkpoints/
+.pytest_cache/
+*.py[cod]
 .DS_Store
-
+.coverage
+htmlcov/
+models/
+.ruff_cache/
