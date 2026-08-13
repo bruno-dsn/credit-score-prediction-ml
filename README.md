@@ -119,4 +119,4 @@ Este é um projeto de portfólio. A base é sintética e as probabilidades não 
 
 ## Autor
 
-Bruno Nunes — estudante de Ciência de Dados e Inteligência Artificial.
+Bruno Nunes — Ciência de Dados e Inteligência Artificial.
